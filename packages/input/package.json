@@ -1,5 +1,5 @@
 {
-  "name": "lg-input",
+  "name": "zhat-lg-input",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "3"
-  }
+  },
+  "gitHead": "9ef291f82c4b5703f991b47406836ea4208671b2"
 }
