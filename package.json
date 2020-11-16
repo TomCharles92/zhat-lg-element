@@ -25,6 +25,6 @@
   "scripts": {
     "storybook": "start-storybook -p 6006 --no-dll",
     "build-storybook": "build-storybook --no-dll",
-    "lerna": "lerna publish"
+    "lerna": "lerna publish --registry https://registry.npmjs.org/"
   }
 }
